@@ -1,0 +1,20 @@
+{
+  "name": "bootcamp-fullstack-mobile-project02",
+  "version": "1.0.0",
+  "description": "Vamos criar a lógica por trás do carrinho de compras da shopee, aonde o carrinho armazene itens e faça o cálculo total e de sub-itens automaticamente.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudiaACGS/Bootcamp-FullStack-Mobile-Project02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudiaACGS/Bootcamp-FullStack-Mobile-Project02/issues"
+  },
+  "homepage": "https://github.com/ClaudiaACGS/Bootcamp-FullStack-Mobile-Project02#readme"
+}
